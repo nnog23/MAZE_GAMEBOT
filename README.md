@@ -1,2 +1,2 @@
 # MAZE_GAMEBOT
- The project includes a maze generator for creating custom mazes with defined start and goal points, and an A* Algorithm implementation to solve these mazes efficiently.
+ The program for this project consists of two different sub-programs: one to generate the maze, and another to solve it. The researchers’ implementation of the maze generator allows the user to draw the walls, open spaces, and start and goal points. Users also have the capability to save and read the maze from a text file. On the other hand, the researchers decided to implement the A* Algorithm to solve the maze.
