@@ -159,7 +159,7 @@ PATH = 'P'      # Symbol to mark the final path
 
 def play_sound(soundprompt):
     # Define the directory where sound files are located
-    dir = "C:\\Users\\magel\\Desktop\\MCO1-INTSY-GAMEBOT-Visualizer_GUI\\assets"
+    dir = "..\\assets"
 
     # Initialize the Pygame library and mixer
     pygame.init()
